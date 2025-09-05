@@ -1,0 +1,25 @@
+body {
+    font-family: verdana;
+    font-size: 1em;
+    background-color: #5865F2;
+    color: white;
+}
+
+.name_and_photo {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+
+}
+.name_and_photo img {
+    border-radius: 20%;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+#details {
+
+}
+
